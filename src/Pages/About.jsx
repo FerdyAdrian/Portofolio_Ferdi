@@ -236,14 +236,14 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              seorang mahasiswa aktif ilmu komputer yang memiliki passion
-              mendalam dalam pengembangan web dan teknologi digital. Saya sangat
-              tertarik dalam pengembangan Front-End & Back-End dengan fokus pada
-              React, Node.js, dan teknologi modern lainnya. Dengan semangat
-              belajar yang tinggi, saya berkomitmen untuk menciptakan pengalaman
-              digital yang menarik, responsif, dan user-friendly. Setiap proyek
-              yang saya kerjakan selalu mengutamakan kualitas, performa, dan
-              solusi terbaik untuk memenuhi kebutuhan pengguna.
+              an active computer science student who has a deep passion
+              in web development and digital technology. I am very
+              interested in Front-End & Back-End development with a focus on
+              React, Node.js, and other modern technologies. With a high 
+              spirit of learning, I am committed to creating an attractive,
+              responsive, and user-friendly digital experience. Every project
+              I work on always prioritizes quality, performance, 
+              and the best solutions to meet user needs.
             </p>
 
             <div className="flex flex-col lg:flex-row items-center lg:items-start gap-4 lg:gap-4 lg:px-0 w-full">
